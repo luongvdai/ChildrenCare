@@ -1,0 +1,19 @@
+SMAP
+addprescription_jsp.java
+JSP
+*S JSP
+*F
++ 0 addprescription.jsp
+staff/addprescription.jsp
+*L
+5,91:54
+96:145,3
+97,33:148
+129:228,11
+130:239
+131,11:240,3
+142,2:273
+143,6:183
+149:189,3
+150,19:192
+*E

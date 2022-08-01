@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Project">
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/Entity/TestMail.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/controller_staff/searchreservation.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/model_staff/allstaff.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/model_staff/Prescription.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/dal_staff/reservatonsDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/controller_staff/reservationdetails.java</file>
+            <file>file:/C:/Users/HP/Documents/GitHub/SWP391-Group-3-SE1610/ChildrenCare_SWP391/src/java/dal_staff/insert_reservationDAO.java</file>
+        </group>
+        <group name="PRJ">
+            <file>file:/E:/Mod/ChildrenCare_SWP391/src/java/newpackage/SendMailConfirm.java</file>
+            <file>file:/E:/Mod/ChildrenCare_SWP391/nbproject/build-impl.xml</file>
+        </group>
+    </open-files>
+</project-private>
